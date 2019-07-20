@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/Pulal-Admin/vendor/magento/module-ui/view/base/web/js/modal/modal.js

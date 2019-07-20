@@ -1,0 +1,1 @@
+/Applications/MAMP/htdocs/Pulal-Admin/lib/web/mage/ie-class-fixer.js
